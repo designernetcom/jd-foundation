@@ -7196,6 +7196,9 @@ span.time-counts {
     .logomob img {
         width: 110px;
     }
+    .section-title1 h2 {
+        font-size: 24px;
+    }
 
     .main-menu-area {
         display: flex;
@@ -7206,6 +7209,7 @@ span.time-counts {
     .section-title1 {
         text-align: center;
         margin-bottom: 40px;
+        font-weight: 600;
     }
 
 }
